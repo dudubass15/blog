@@ -1,0 +1,14 @@
+.sobre-positivos{
+	width: 100%;
+	margin-left: 40px;
+}
+
+#rodape {
+	position: absolute;
+	bottom: 0px;
+}
+
+#navbar-logout{
+	float: right;
+	margin-top: 8px;
+}
